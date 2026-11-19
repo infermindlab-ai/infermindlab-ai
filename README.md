@@ -2,10 +2,9 @@
 
 ### Exploring the Intelligence Beyond
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-00BFFF?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge)
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
+![Research](https://img.shields.io/badge/AI_RESEARCH-00BFFF?style=for-the-badge)
+![Technology](https://img.shields.io/badge/EXPERIMENTAL_TECH-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -13,11 +12,13 @@
 
 **Dorian Drake** — AI Researcher, Builder & Digital Explorer.
 
-Welcome to my experimental workspace.
+Welcome to my digital laboratory.
 
-INFERMIND LAB is an independent creative laboratory exploring artificial intelligence, emerging technologies and the future of digital intelligence.
+INFERMIND LAB is an independent creative technology laboratory exploring artificial intelligence, intelligent systems, software engineering and emerging technologies.
 
-> Question everything. Generate anything.
+My mission is to experiment, build and discover new possibilities at the intersection of human creativity and machine intelligence.
+
+> **Question everything. Generate anything.**
 
 ---
 
@@ -25,29 +26,69 @@ INFERMIND LAB is an independent creative laboratory exploring artificial intelli
 
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 Large Language Models (LLMs)
-- ⚡ AI Agents & Automation
-- 🐍 Python Development
+- ⚡ AI Agents & Autonomous Systems
 - 🧪 Prompt Engineering
+- 🔗 Intelligent Automation
 - 🌐 Human–AI Interaction
 - 🔭 Experimental Technologies
+- 🛠️ Software & Systems Engineering
+
+---
+
+## 💻 Technology Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI & Machine Intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7B61FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00BFFF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge)
+
+### Development & Infrastructure
+
+- Git & GitHub
+- Linux & Virtual Machines
+- APIs & Backend Systems
+- Developer Tools
+- Automation Workflows
 
 ---
 
 ## 🚀 Current Mission
 
-Exploring new possibilities at the intersection of intelligence, technology and creativity.
+Exploring the next generation of intelligent technologies.
 
-Building experiments. Testing ideas. Creating what's next.
+Building experimental tools, exploring AI architectures, testing ideas and developing practical solutions.
+
+**Think. Experiment. Build. Evolve.**
 
 ---
 
 ## 🧬 Laboratory Philosophy
 
-**Think beyond limits. Experiment without boundaries. Build the future.**
+We believe that curiosity is the foundation of innovation.
+
+Technology has no final boundaries. Every experiment is an opportunity to discover something new.
+
+> Think beyond limits.  
+> Experiment without boundaries.  
+> Build the future.
 
 ---
 
-<p align="center">
-  <b>INFERMIND LAB</b><br>
-  <i>Powered by curiosity. Driven by intelligence.</i>
-</p>
+## ⚡ INFERMIND LAB
+
+**DR. INFER**
+
+*Exploring the intelligence beyond.*
+
+---
+
+© INFERMIND LAB
