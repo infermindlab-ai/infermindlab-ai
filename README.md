@@ -1,4 +1,4 @@
-![INFERMIND LAB](./infermind-banner.png)
+![INFERMIND LAB](./assets/infermind-banner.png)
 
 ---
 # 🧠 INFERMIND LAB
