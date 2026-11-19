@@ -1,3 +1,6 @@
+![INFERMIND LAB](./infermind-banner.png)
+
+---
 # 🧠 INFERMIND LAB
 
 ### Exploring the Intelligence Beyond
